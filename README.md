@@ -20,4 +20,4 @@ SQLite3 instrumentation :
 	 	Android: /mnt/sdcard/chrome_log.sqlite
 
 
-TEAM : Subhasis Das and Rishi Josan
+Team : Subhasis Das and Rishi Josan
